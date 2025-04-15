@@ -1,0 +1,3 @@
+Configuration management plays a key role in the success of any software-based project. 
+It provides a way to control what happens, when it happens, how it happens, and by whom. 
+Software configuration management tools track these elements, helping managers monitor the project's progression.
